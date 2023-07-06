@@ -1,11 +1,11 @@
 {
-  "name": "ショッピングリンクコネクター",
+  "name": "メルカリリンクコネクター",
   "short_name": "アマゾンで見ている商品をメルカリで",
   "description": "アマゾンで見ている商品をメルカリで見ることができます。",
   "author": "EveSquare",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 3,
-  "permissions": ["storage", "tabs", "https://www.mercari.com/jp/search/"],
+  "permissions": ["https://www.mercari.com/jp/search/"],
   "content_scripts": [
     {
       "run_at":"document_idle",
