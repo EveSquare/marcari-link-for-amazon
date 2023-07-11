@@ -7,5 +7,5 @@
 
 <br>
 
-[ストアリンク](https://chrome.google.com/webstore/detail/pagination-arrow-move/adjencclajogfdbnegcihcbgjieifegn)
-[Store Link](https://chrome.google.com/webstore/detail/pagination-arrow-move/adjencclajogfdbnegcihcbgjieifegn)
+[ストアリンク]([https://chrome.google.com/webstore/detail/pagination-arrow-move/adjencclajogfdbnegcihcbgjieifegn](https://chrome.google.com/webstore/detail/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC/blpoaognkjiadcdmpgiibehoniheaphe)https://chrome.google.com/webstore/detail/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC/blpoaognkjiadcdmpgiibehoniheaphe)
+[Store Link]([https://chrome.google.com/webstore/detail/pagination-arrow-move/adjencclajogfdbnegcihcbgjieifegn](https://chrome.google.com/webstore/detail/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC/blpoaognkjiadcdmpgiibehoniheaphe)https://chrome.google.com/webstore/detail/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC/blpoaognkjiadcdmpgiibehoniheaphe)
